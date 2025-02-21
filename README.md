@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Fawe00
-- 👀 I’m interested in PC/Windows
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in PC/Linux Mint
+- 🌱 I’m currently learning Java
